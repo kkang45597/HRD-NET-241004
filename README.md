@@ -237,39 +237,50 @@ function binaryBtnColorChange(binaryType) { // 진수 설정에 따라 버튼의
 ---
 4. **GUI 및 동작확인**
 
-- 계산기 GUI
-![ex_screenshot](./resource/Test1.png)
+▼ 계산기 GUI
 
-- 숫자 입력 및 계산
-![ex_screenshot](./resource/Test2-1.gif)
-![ex_screenshot](./resource/Test2-2.gif)
+<img src="./resource/Test1.png" width="350px">
 
-- 백스페이스
-![ex_screenshot](./resource/Test3.gif)
+▼ 숫자 입력 및 계산 (10진수)
 
-- 리셋
-![ex_screenshot](./resource/Test4.gif)
+<img src="./resource/Test2-1.gif" width="350px">
 
-- 10진수를 16진수로 변환
-![ex_screenshot](./resource/Test5.gif)
+▼ 숫자 입력 및 계산 (16진수)
 
-- 16진수를 10진수로 변환
-![ex_screenshot](./resource/Test6.gif)
+<img src="./resource/Test2-2.gif" width="350px">
 
-- 10진수 계산값을 16진수로 변환
-![ex_screenshot](./resource/Test7.gif)
+▼ 백스페이스
 
-- 16진수 계산값을 10진수로 변환
-![ex_screenshot](./resource/Test8.gif)
+<img src="./resource/Test3.gif" width="350px">
 
-- 식을 연산자로 시작할 때 출력되는 알림
-![ex_screenshot](./resource/Test9.gif)
+▼ 리셋
 
-- 숫자 입력 없이 '='를 누르면 출력되는 알림
-![ex_screenshot](./resource/Test10.gif)
+<img src="./resource/Test4.gif" width="350px">
 
-- 식을 완성하지 않고 '='를 누르면 출력되는 알림
-![ex_screenshot](./resource/Test11.gif)
+▼ 10진수를 16진수로 변환
 
-- 식을 완성하지 않고 '='를 누르면 출력되는 알림
-![ex_screenshot](./resource/Test11.gif)
+<img src="./resource/Test5.gif" width="350px">
+
+▼ 16진수를 10진수로 변환
+
+<img src="./resource/Test6.gif" width="350px">
+
+▼ 10진수 계산값을 16진수로 변환
+
+<img src="./resource/Test7.gif" width="350px">
+
+▼ 16진수 계산값을 10진수로 변환
+
+<img src="./resource/Test8.gif" width="350px">
+
+▼ 식을 연산자로 시작할 때 출력되는 알림
+
+<img src="./resource/Test9.gif" width="350px">
+
+▼ 숫자 입력 없이 '='를 누르면 출력되는 알림
+
+<img src="./resource/Test10.gif" width="350px">
+
+▼ 식을 완성하지 않고 '='를 누르면 출력되는 알림
+
+<img src="./resource/Test11.gif" width="350px">
